@@ -28,3 +28,8 @@ analysis/cat.json
 **/.hyperframes/
 node_modules/
 __pycache__/
+
+# local secrets
+.env*
+!.env.example
+.dev.vars*
